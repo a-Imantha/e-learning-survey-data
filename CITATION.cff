@@ -1,1 +1,9 @@
-
+cff-version: 1.2.0
+message: "If you are using this dataset, Please cite this as follows"
+authors:
+  - family-names: Ahangama
+    given-names: Imantha
+    orcid: https://orcid.org/0000-0003-3267-5443
+title: "Survey on Assessing the Impact on Stress Management, Undergraduates of Sri Lanka"
+version: 1.0.0
+date-released: 2021-12-14
